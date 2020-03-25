@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="176723" started-at="2020-03-23T17:24:34 IST" finished-at="2020-03-23T17:27:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="176723" started-at="2020-03-23T17:24:34 IST" finished-at="2020-03-23T17:27:31 IST">
+      <class name="practise.AppiumFramework.GS_TC_3">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.GS_TC_3@22eeefeb]" name="killAllNodes" is-config="true" duration-ms="3029" started-at="2020-03-23T17:24:37 IST" finished-at="2020-03-23T17:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.GS_TC_3@22eeefeb]" name="totalValidation" duration-ms="43306" started-at="2020-03-23T17:26:07 IST" data-provider="InputName" finished-at="2020-03-23T17:26:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yuneek]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.GS_TC_3@22eeefeb]" name="totalValidation" duration-ms="40121" started-at="2020-03-23T17:26:51 IST" data-provider="InputName" finished-at="2020-03-23T17:27:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Achin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- practise.AppiumFramework.GS_TC_3 -->
+      <class name="practise.AppiumFramework.ApiDemoTest">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.ApiDemoTest@289d1c02]" name="killAllNodes" is-config="true" duration-ms="3021" started-at="2020-03-23T17:24:34 IST" finished-at="2020-03-23T17:24:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@289d1c02]" name="apiDemo" duration-ms="30128" started-at="2020-03-23T17:24:40 IST" data-provider="InputData" finished-at="2020-03-23T17:25:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yuneek]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@289d1c02]" name="apiDemo" duration-ms="27421" started-at="2020-03-23T17:25:10 IST" data-provider="InputData" finished-at="2020-03-23T17:25:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#$$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@289d1c02]" name="apiDemo" duration-ms="29372" started-at="2020-03-23T17:25:38 IST" data-provider="InputData" finished-at="2020-03-23T17:26:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yuneek1@3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- practise.AppiumFramework.ApiDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
