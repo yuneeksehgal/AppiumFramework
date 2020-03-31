@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="226705" started-at="2020-03-23T20:23:45 IST" finished-at="2020-03-23T20:27:32 IST">
+  <suite name="Suite" duration-ms="292742" started-at="2020-03-31T14:54:10 IST" finished-at="2020-03-31T14:59:03 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="226705" started-at="2020-03-23T20:23:45 IST" finished-at="2020-03-23T20:27:32 IST">
+    <test name="Test" duration-ms="292742" started-at="2020-03-31T14:54:10 IST" finished-at="2020-03-31T14:59:03 IST">
       <class name="practise.AppiumFramework.GS_TC_3">
-        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.GS_TC_3@27a8c74e]" name="killAllNodes" is-config="true" duration-ms="3004" started-at="2020-03-23T20:23:48 IST" finished-at="2020-03-23T20:23:51 IST">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.GS_TC_3@305fd85d]" name="killAllNodes" is-config="true" duration-ms="3004" started-at="2020-03-31T14:54:13 IST" finished-at="2020-03-31T14:54:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killAllNodes -->
-        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.GS_TC_3@27a8c74e]" name="totalValidation" duration-ms="82916" started-at="2020-03-23T20:23:52 IST" data-provider="InputName" finished-at="2020-03-23T20:25:14 IST">
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.GS_TC_3@305fd85d]" name="totalValidation" duration-ms="114270" started-at="2020-03-31T14:54:17 IST" data-provider="InputName" finished-at="2020-03-31T14:56:11 IST">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- totalValidation -->
-        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.GS_TC_3@27a8c74e]" name="totalValidation" duration-ms="42077" started-at="2020-03-23T20:25:14 IST" data-provider="InputName" finished-at="2020-03-23T20:25:57 IST">
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.GS_TC_3@305fd85d]" name="totalValidation" duration-ms="75248" started-at="2020-03-31T14:56:11 IST" data-provider="InputName" finished-at="2020-03-31T14:57:26 IST">
           <params>
             <param index="0">
               <value>
@@ -35,11 +35,11 @@
         </test-method> <!-- totalValidation -->
       </class> <!-- practise.AppiumFramework.GS_TC_3 -->
       <class name="practise.AppiumFramework.ApiDemoTest">
-        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2d8f65a4]" name="killAllNodes" is-config="true" duration-ms="3058" started-at="2020-03-23T20:23:45 IST" finished-at="2020-03-23T20:23:48 IST">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.ApiDemoTest@458c1321]" name="killAllNodes" is-config="true" duration-ms="3041" started-at="2020-03-31T14:54:10 IST" finished-at="2020-03-31T14:54:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killAllNodes -->
-        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2d8f65a4]" name="apiDemo" duration-ms="39640" started-at="2020-03-23T20:25:57 IST" data-provider="InputData" finished-at="2020-03-23T20:26:36 IST">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@458c1321]" name="apiDemo" duration-ms="33984" started-at="2020-03-31T14:57:26 IST" data-provider="InputData" finished-at="2020-03-31T14:58:00 IST">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apiDemo -->
-        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2d8f65a4]" name="apiDemo" duration-ms="29180" started-at="2020-03-23T20:26:36 IST" data-provider="InputData" finished-at="2020-03-23T20:27:05 IST">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@458c1321]" name="apiDemo" duration-ms="32654" started-at="2020-03-31T14:58:00 IST" data-provider="InputData" finished-at="2020-03-31T14:58:33 IST">
           <params>
             <param index="0">
               <value>
@@ -61,7 +61,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apiDemo -->
-        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2d8f65a4]" name="apiDemo" duration-ms="26681" started-at="2020-03-23T20:27:05 IST" data-provider="InputData" finished-at="2020-03-23T20:27:32 IST">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@458c1321]" name="apiDemo" duration-ms="30366" started-at="2020-03-31T14:58:33 IST" data-provider="InputData" finished-at="2020-03-31T14:59:03 IST">
           <params>
             <param index="0">
               <value>
